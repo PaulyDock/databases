@@ -32,7 +32,9 @@
     "chai": "^3.5.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "jquery": "^3.2.1",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "mysql-query-promise": "^1.0.1",
+    "promise-mysql": "^3.0.1"
   },
   "babel": {
     "presets": [
